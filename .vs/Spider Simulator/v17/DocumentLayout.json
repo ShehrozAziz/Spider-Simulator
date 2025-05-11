@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B3699-DC95-BBA9-6967-C7B794E23ACD}|Assembly-CSharp.csproj|d:\\unity projects\\spidy simulator\\spidy simulator\\spider simulator\\assets\\@_scripts\\spidyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B3699-DC95-BBA9-6967-C7B794E23ACD}|Assembly-CSharp.csproj|solutionrelative:assets\\@_scripts\\spidyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B3699-DC95-BBA9-6967-C7B794E23ACD}|Assembly-CSharp.csproj|d:\\unity projects\\spidy simulator\\spidy simulator\\spider simulator\\assets\\@_scripts\\indamagezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B3699-DC95-BBA9-6967-C7B794E23ACD}|Assembly-CSharp.csproj|solutionrelative:assets\\@_scripts\\indamagezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B3699-DC95-BBA9-6967-C7B794E23ACD}|Assembly-CSharp.csproj|D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\assets\\@_scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B3699-DC95-BBA9-6967-C7B794E23ACD}|Assembly-CSharp.csproj|solutionrelative:assets\\@_scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpidyScript.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\Assets\\@_Scripts\\SpidyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\@_Scripts\\SpidyScript.cs",
+              "ToolTip": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\Assets\\@_Scripts\\SpidyScript.cs",
+              "RelativeToolTip": "Assets\\@_Scripts\\SpidyScript.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:42:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InDamageZone.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\Assets\\@_Scripts\\InDamageZone.cs",
+              "RelativeDocumentMoniker": "Assets\\@_Scripts\\InDamageZone.cs",
+              "ToolTip": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\Assets\\@_Scripts\\InDamageZone.cs",
+              "RelativeToolTip": "Assets\\@_Scripts\\InDamageZone.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:22:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\Assets\\@_Scripts\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\@_Scripts\\EnemyAttack.cs",
+              "ToolTip": "D:\\Unity Projects\\Spidy Simulator\\Spidy Simulator\\Spider Simulator\\Assets\\@_Scripts\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\@_Scripts\\EnemyAttack.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:21:54.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+Converting script [1 / 19]	[\SpidyController.cs]
+	Fragments : 8
+		[ 0] : Line:   29	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   30	InputMethod   GetAxis             	("Vertical")
+		[ 2] : Line:   42	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[ 3] : Line:   78	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 4] : Line:   91	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 5] : Line:   97	InputMethod   GetKey              	(KeyCode.E)
+		[ 6] : Line:  103	InputMethod   GetKeyDown          	(KeyCode.Z)
+		[ 7] : Line:  109	InputMethod   GetKeyDown          	(KeyCode.B)
+
+Converting script [2 / 19]	[\!Scripts\playerrotate.cs]
+	Fragments : 8
+		[ 0] : Line:   46	InputMethod   GetKey              	(KeyCode.Escape)
+		[ 1] : Line:   50	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   51	Other mod.	[Cursor.visible]
+		[ 3] : Line:   54	Other mod.	[Cursor.lockState]
+		[ 4] : Line:   57	InputMethod   GetButton           	("Aim")
+		[ 5] : Line:   68	InputMethod   GetAxis             	("Mouse X")
+		[ 6] : Line:  110	InputMethod   GetAxis             	("Mouse X")
+		[ 7] : Line:  113	InputMethod   GetAxis             	("Mouse X")
+
+Converting script [3 / 19]	[\EazyCamera\Code\Camera\EazyCam.cs]
+	Fragments : 1
+		[ 0] : Line:  122	Other mod.	[Cursor.lockState]
+
+Converting script [4 / 19]	[\EazyCamera\Code\Camera\EazyController.cs]
+	Fragments : 8
+		[ 0] : Line:   20	InputProperty mouseScrollDelta    
+		[ 1] : Line:   26	InputMethod   GetAxis             	(Util.MouseX)
+		[ 2] : Line:   27	InputMethod   GetAxis             	(Util.MouseY)
+		[ 3] : Line:   30	InputMethod   GetKeyDown          	(KeyCode.R)
+		[ 4] : Line:   36	InputMethod   GetKeyUp            	(KeyCode.T)
+		[ 5] : Line:   41	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 6] : Line:   46	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 7] : Line:   51	InputMethod   GetKeyDown          	(KeyCode.E)
+
+Converting script [5 / 19]	[\EazyCamera\Code\Camera\Legacy\EzCamera.cs]
+	Fragments : 4
+		[ 0] : Line:  248	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:  257	InputMethod   GetMouseButton      	(2)
+		[ 2] : Line:  257	InputMethod   GetKey              	(KeyCode.Z)
+		[ 3] : Line:  259	InputMethod   GetAxis             	(ExtensionMethods.MOUSEY)
+
+Converting script [6 / 19]	[\EazyCamera\Code\Controller\EzPlayerController.cs]
+	Fragments : 3
+		[ 0] : Line:   51	InputMethod   GetAxis             	(ExtensionMethods.HORIZONTAL)
+		[ 1] : Line:   52	InputMethod   GetAxis             	(ExtensionMethods.VERITCAL)
+		[ 2] : Line:   58	InputMethod   GetKey              	(KeyCode.LeftShift)
+
+Converting script [7 / 19]	[\EazyCamera\Code\StateMachine\CameraStates\EzFollowState.cs]
+	Fragments : 1
+		[ 0] : Line:   53	InputMethod   GetKeyDown          	(KeyCode.R)
+
+Converting script [8 / 19]	[\EazyCamera\Code\StateMachine\CameraStates\EzLockOnState.cs]
+	Fragments : 6
+		[ 0] : Line:   75	InputMethod   GetKeyDown          	(KeyCode.E)
+		[ 1] : Line:   79	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 2] : Line:   86	InputMethod   GetKeyDown          	(KeyCode.E)
+		[ 3] : Line:   86	InputMethod   GetKeyDown          	(KeyCode.Q)
+		[ 4] : Line:   93	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 5] : Line:  118	InputMethod   GetKeyUp            	(KeyCode.Space)
+
+Converting script [9 / 19]	[\EazyCamera\Code\StateMachine\CameraStates\EzOrbitState.cs]
+	Fragments : 4
+		[ 0] : Line:   76	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   80	InputMethod   GetMouseButtonUp    	(0)
+		[ 2] : Line:   87	InputMethod   GetAxis             	(MOUSEX)
+		[ 3] : Line:   88	InputMethod   GetAxis             	(MOUSEY)
+
+Converting script [10 / 19]	[\Malbers Animations\Common\Scripts\AI\FollowTargetExtended.cs]
+	Fragments : 1
+		[ 0] : Line:  135	InputProperty anyKeyDown          
+
+Converting script [11 / 19]	[\Malbers Animations\Common\Scripts\Compatible StA\FPS\MMouseLook.cs]
+	Fragments : 2
+		[ 0] : Line:   31	InputMethod   GetAxis             	("Mouse X")
+		[ 1] : Line:   32	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [12 / 19]	[\Malbers Animations\Common\Scripts\Compatible StA\FPS\MRigidbodyFPSController.cs]
+	Fragments : 5
+		[ 0] : Line:   42	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   43	Other mod.	[Cursor.visible]
+		[ 2] : Line:   51	InputMethod   GetButtonDown       	("Jump")
+		[ 3] : Line:  135	InputMethod   GetAxis             	("Horizontal")
+		[ 4] : Line:  136	InputMethod   GetAxis             	("Vertical")
+
+Converting script [13 / 19]	[\Malbers Animations\Common\Scripts\Core\UnityUtils.cs]
+	Fragments : 2
+		[ 0] : Line:  174	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  175	Other mod.	[Cursor.visible]
+
+Converting script [14 / 19]	[\Malbers Animations\Common\Scripts\Core\Interfaces\IInputSource.cs]
+	Fragments : 5
+		[ 0] : Line:   72	InputMethod   GetAxis             	(Axis)
+		[ 1] : Line:   74	InputMethod   GetAxisRaw          	(Axis)
+		[ 2] : Line:   76	InputMethod   GetButton           	(button)
+		[ 3] : Line:   78	InputMethod   GetButtonDown       	(button)
+		[ 4] : Line:   80	InputMethod   GetButtonUp         	(button)
+
+Converting script [15 / 19]	[\Malbers Animations\Common\Scripts\Input\MalbersInput.cs]
+	Fragments : 1
+		[ 0] : Line:   44	InputMethod   GetAxis             	(UpDown.name)
+
+Converting script [16 / 19]	[\Malbers Animations\Common\Scripts\Input\MInput.cs]
+	Fragments : 6
+		[ 0] : Line:  555	InputMethod   GetKey              	(key)
+		[ 1] : Line:  573	InputMethod   GetKeyDown          	(key)
+		[ 2] : Line:  585	InputMethod   GetKeyUp            	(key)
+		[ 3] : Line:  597	InputMethod   GetKey              	(key)
+		[ 4] : Line:  664	InputMethod   GetKey              	(key)
+		[ 5] : Line:  704	InputMethod   GetKeyDown          	(key)
+
+Converting script [17 / 19]	[\Malbers Animations\Common\Scripts\Input\MMouseScroll.cs]
+	Fragments : 1
+		[ 0] : Line:   18	InputProperty mouseScrollDelta    
+
+Converting script [18 / 19]	[\Malbers Animations\Common\Scripts\Input\MouseToWorld.cs]
+	Fragments : 1
+		[ 0] : Line:   65	InputProperty mousePosition       
+
+Converting script [19 / 19]	[\Malbers Animations\Common\Scripts\Utilities\Tools\MGameSettings.cs]
+	Fragments : 1
+		[ 0] : Line:   31	Other mod.	[Cursor.lockState]
+
+
+19 scripts modified!
+Overwriting actual scripts...
+	[0 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\SpidyController.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\SpidyController.cs]
+	[1 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\!Scripts\playerrotate.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\!Scripts\playerrotate.cs]
+	[2 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\Camera\EazyCam.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\Camera\EazyCam.cs]
+	[3 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\Camera\EazyController.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\Camera\EazyController.cs]
+	[4 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\Camera\Legacy\EzCamera.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\Camera\Legacy\EzCamera.cs]
+	[5 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\Controller\EzPlayerController.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\Controller\EzPlayerController.cs]
+	[6 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\StateMachine\CameraStates\EzFollowState.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\StateMachine\CameraStates\EzFollowState.cs]
+	[7 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\StateMachine\CameraStates\EzLockOnState.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\StateMachine\CameraStates\EzLockOnState.cs]
+	[8 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\EazyCamera\Code\StateMachine\CameraStates\EzOrbitState.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\EazyCamera\Code\StateMachine\CameraStates\EzOrbitState.cs]
+	[9 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\AI\FollowTargetExtended.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\AI\FollowTargetExtended.cs]
+	[10 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Compatible StA\FPS\MMouseLook.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Compatible StA\FPS\MMouseLook.cs]
+	[11 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Compatible StA\FPS\MRigidbodyFPSController.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Compatible StA\FPS\MRigidbodyFPSController.cs]
+	[12 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Core\UnityUtils.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Core\UnityUtils.cs]
+	[13 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Core\Interfaces\IInputSource.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Core\Interfaces\IInputSource.cs]
+	[14 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Input\MalbersInput.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Input\MalbersInput.cs]
+	[15 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Input\MInput.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Input\MInput.cs]
+	[16 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Input\MMouseScroll.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Input\MMouseScroll.cs]
+	[17 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Input\MouseToWorld.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Input\MouseToWorld.cs]
+	[18 / 19] from  [D:/__Unity Work/Unity Projects/Spider Simulator/CF2-Data/Script-Backups/2023-09-11-14-31\Assets-After/\Malbers Animations\Common\Scripts\Utilities\Tools\MGameSettings.cs] to [D:/__Unity Work/Unity Projects/Spider Simulator/Assets/\Malbers Animations\Common\Scripts\Utilities\Tools\MGameSettings.cs]
+
+Overwriting COMPLETED!
